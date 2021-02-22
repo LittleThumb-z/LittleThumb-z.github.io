@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The whispers</title>
-    <link>https://littlethumb-z.github.io/</link>
-    <description>Recent content on The whispers</description>
+    <title>thoughts on The whispers</title>
+    <link>https://littlethumb-z.github.io/tags/thoughts/</link>
+    <description>Recent content in thoughts on The whispers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://littlethumb-z.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://littlethumb-z.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>“杀人”漫想</title>
       <link>https://littlethumb-z.github.io/posts/kill/</link>
@@ -23,39 +23,6 @@
 老者心中的火也在摇荡。人生的谢幕就在眼前，他的人生即将完美，只要轻 轻一刀。老者的心是摇荡，神情却是坦荡的。
 仇心中的火也在摇荡。仇人就在眼前，只有一副佝偻单薄的身躯，风烛残年， 行将就木。手刃这样的仇人是何等地容易，更何况仇人还坦然受死呢？但这却又 能有多少地快意？仇手中的刀，紧了又松。
 突然地，仇手中的刀挥出了，好似斩断了时间。青灯一瞬间灭了，老者心中 的火也灭了，仇心中的火也灭了。</description>
-    </item>
-    
-    <item>
-      <title>古诗几首</title>
-      <link>https://littlethumb-z.github.io/posts/firstpost/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://littlethumb-z.github.io/posts/firstpost/</guid>
-      <description>维清 维清缉熙，
-文王之典。
-肇禋，迄用有成，
-维周之祯。
-清庙 于穆清庙，肃雍显相。
-济济多士，秉文之德。
-对越在天，骏奔走在庙。
-不显不承，无射于人斯。
-卢令 卢令令，其人美且仁。
-卢重环，其人美且鬈。
-卢重锶，其人美且偲。</description>
-    </item>
-    
-    <item>
-      <title>纳兰词一首</title>
-      <link>https://littlethumb-z.github.io/posts/updatepost/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://littlethumb-z.github.io/posts/updatepost/</guid>
-      <description>蝶恋花 辛苦最怜天上月。
-一昔如环，昔昔都成珏。
-若似月轮终皎洁，不辞冰雪为卿热。
-无那尘缘容易绝。
-燕子依然，软踏帘钩说。
-唱罢秋坟愁未歇，春从一认双栖蝶。</description>
     </item>
     
   </channel>
